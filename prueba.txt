@@ -1,2 +1,3 @@
 hola mundo
-mi clase de comunicacion
+mi clase de comunicación y fisica
+
